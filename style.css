@@ -360,7 +360,7 @@ footer a{
     border: 1px solid rgba(246, 238, 238, 0.5);
 }
 
-@media screen and (max-width: 500px) {
+/* @media screen and (max-width: 500px) {
     .hero> :nth-child(1) {
         font-size: 18px;
     }
@@ -372,5 +372,5 @@ footer a{
     nav {
         max-width: 93vw;
     }
-}
+} */
 
